@@ -1,0 +1,58 @@
+[
+  {
+     "title":"ثقافة جنسية",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+
+	 {
+        "title":"Capital- EnQ-Exc",
+        "provider":"youtube",
+        "arguments":[
+          "UCQFjvsCX3DDXxEc55cx03Jw",
+          "channel"
+
+        ]
+     },
+
+	        {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "PLZE__x8fBoginZoO3ucySiaCY05XFjIyb",
+          "playlist"
+
+        ]
+      }
+	  ;
+     {
+        "title":"TCF",
+        "provider":"youtube",
+        "arguments":[
+          "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "channel"
+
+        ]
+      }
+   
+  ]
+  }
+  ,
+
+  {
+    "title":"A propos",
+    "drawable":"",
+    "submenu":"autres",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.knoozapps.myapp.thjensia.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
