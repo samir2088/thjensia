@@ -40,7 +40,21 @@
   }
   ,
 
-
+ {
+    "title":"BEIN MAX 1 جودة عالية",
+    "drawable":"",
+    "submenu":"حمل Mx Player قبل التشغيل",
+    "iap":false,
+    "tabs":[
+        {
+        "title":"Live",
+        "provider":"stream",
+        "arguments":[
+          "http://iptv.atlasiptv.net:88/live/329388682628645/329388682628645/69.ts"
+        ]
+      }
+    ]
+  },
 
  {
     "title":"نتائج",
