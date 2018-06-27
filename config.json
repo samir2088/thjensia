@@ -40,6 +40,24 @@
   }
   ,
 
+
+
+ {
+    "title":"نتائج",
+    "drawable":"",
+    "submenu":"أخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://ar.fifa.com/worldcup/matches/index.html"
+        ]
+      }
+    ]
+
+  },
   {
     "title":"A propos",
     "drawable":"",
